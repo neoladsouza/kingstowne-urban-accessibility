@@ -1,0 +1,5 @@
+data/raw/
+data/processed/*.graphml
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

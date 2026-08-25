@@ -1,0 +1,92 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+101,30068,101,Fort Hunt - Mount Vernon,,3,,0071bb,ffffff
+109,30068,109,Rose Hill,,3,,e1c47c,000000
+151,30068,151,Engleside - Mt Vernon,,3,,f7c82b,000000
+152,30068,152,Groveton - Mt Vernon,,3,,98a5d3,ffffff
+159,30068,159,Engleside Limited-Stop,,3,,73cee1,ffffff
+161,30068,161,Hybla Valley Counter-Clockwise,,3,,00897d,ffffff
+162,30068,162,Hybla Valley Clockwise,,3,,00897d,ffffff
+171,30068,171,Richmond Hwy,,3,,eb6e2a,ffffff
+231,30068,231,Kingstowne Counter-Clockwise,,3,,a1c962,ffffff
+232,30068,232,Kingstowne Clockwise,,3,,a1c962,ffffff
+301,30068,301,Telegraph Rd,,3,,00b7e6,ffffff
+305,30068,305,Newington Forest - Silverbrook Road,,3,,60b6c6,ffffff
+306,30068,306,GMU - Pentagon,,3,,0db14b,ffffff
+308,30068,308,Franconia - Mt. Vernon Hosp.,,3,,dc6e92,ffffff
+310,30068,310,Franconia-Rolling Valley Line,,3,,e32d27,ffffff
+321,30068,321,Springfield Counter-Clockwise,,3,,9b2d84,ffffff
+322,30068,322,Springfield Clockwise,,3,,9b2d84,ffffff
+334,30068,334,DLA - Newington,,3,,d191bf,ffffff
+335,30068,335,Fort Belvoir Express,,3,,717dbc,ffffff
+340,30068,340,Patriot Ridge - Saratoga,,3,,ef9228,ffffff
+341,30068,341,Boston Blvd - Saratoga,,3,,009f4f,ffffff
+350,30068,350,TAGS Springfield Circulator,,3,,5091a5,ffffff
+351,30068,351,TAGS Springfield TSA,,3,,e5a944,ffffff
+352,30068,352,TAGS Springfield TSA lunch,,3,,e5a944,ffffff
+353,30068,353,TAGS Springfield Circ Metro Park,,3,,5091a5,ffffff
+371,30068,371,Lorton-Springfield,,3,,bdd747,000000
+393,30068,393,Saratoga-Pentagon-Mark Center,,3,,00bff2,ffffff
+394,30068,394,Saratoga - Pentagon Express,,3,,405b9f,ffffff
+395,30068,395,Gambrill - Pentagon Express,,3,,f3858d,ffffff
+396,30068,396,Backlick-Pentagon Express,,3,,663333,ffffff
+401,30068,401,Backlick - Gallows Rd Northbound,,3,,0071b3,ffffff
+402,30068,402,Backlick - Gallows Rd Southbound,,3,,0071b3,ffffff
+423,30068,423,Central Tysons - Tysons Corner Metr,,3,,7a61a3,ffffff
+427,30068,427,Spring Hill Metro- Farm Credit,,3,,7a61a3,ffffff
+432,30068,432,Old Courthouse - Beulah,,3,,39c2d7,ffffff
+461,30068,461,VIENNA-OAKTON,,3,,b74c5c,ffffff
+462,30068,462,Dunn Loring - Navy Federal - Tysons,,3,,8bba62,ffffff
+463,30068,463,Maple Avenue - Tysons,,3,,d2a3cb,ffffff
+467,30068,467,Dunn Loring - Tysons,,3,,2390ac,ffffff
+480,30068,480,Wolf Trap Special Shuttle,,3,,00ffff,000000
+494,30068,494,Springfield - Tysons,,3,,999dce,ffffff
+495,30068,495,Burke Center VRE - Tysons,,3,,8ecea4,ffffff
+507,30068,507,Sunrise Valley - Sunset Hills,,3,,db403f,ffffff
+553,30068,553,Kingstream - Herndon - Fox MIll,,3,,f04e30,ffffff
+557,30068,557,Reston South - Soapstone,,3,,6e8bbe,ffffff
+558,30068,558,Center Harbor - Wiehle,,3,,d48f95,ffffff
+559,30068,559,Reston TC - Wiehle,,3,,d48f95,ffffff
+574,30068,574,Reston Town Center - Tysons,,3,,e27ab0,ffffff
+598,30068,598,Reston S - Pentagon,,3,,ffffff,000000
+605,30068,605,Reston - Monument -Fair Oaks Hosp,,3,,9bba3b,ffffff
+610,30068,610,GMU - Centreville,,3,,ffffff,000000
+615,30068,615,Monument -Fair Oaks Hosp,,3,,bc94c4,ffffff
+625,30068,625,Random Hills - Pender Dr,,3,,44ace1,ffffff
+630,30068,630,Centreville - Monument -,,3,,dc5950,ffffff
+642,30068,642,Aubrey Patent - Westfields,,3,,faa633,ffffff
+651,30068,651,Chantilly - Monument Dt.,,3,,dc6e91,ffffff
+652,30068,652,Chantilly - Stringfellow P 7 R,,3,,e6c569,000000
+660,30068,660,Centreville PnR - Tysons Exp,,3,,b9d989,000000
+662,30068,662,Centreville PnR - Vienna,,3,,b4dfee,000000
+663,30068,663,Stringfellow Rd. - Vienna,,3,,f9a870,000000
+670,30068,670,Chantilly - Franconia Limited Stop,,3,,207e3e,000000
+671,30068,671,Chantilly - Dunn Loring Limited Sto,,3,,f9a870,000000
+672,30068,672,Chantilly - Dunn Loring Limited Sto,,3,,8ca2d3,ffffff
+697,30068,697,Stringfellow Rd - D St SW DC,,3,,f06ca8,ffffff
+698,30068,698,Stringfellow Rd. - Pentagon,,3,,ed2124,ffffff
+699,30068,699,Monument Dr - DOWNTOWN D.C.,,3,,000099,ffffff
+703,30068,703,Pimmit HIlls,,3,,0071a4,ffffff
+715,30068,715,East Falls Church - Langley,,3,,729bc3,ffffff
+721,30068,721,Chain Bridge Road - Mclean,,3,,b63f77,ffffff
+798,30068,798,Tysons - Bethesda,,3,,7da7d8,ffffff
+803,30068,803,Annandale Road,,3,,3ab87f,ffffff
+834,30068,834,Pentagon - Annandale,,3,,e75e25,ffffff
+835,30068,835,Braeburn Dr - Pentagon,,3,,314142,ffffff
+901,30068,901,Herndon Metro -Centreville,,3,,ef404a,ffffff
+921,30068,921,Herndon Circulator,,3,,635faa,ffffff
+924,30068,924,Dranesville Rd - Franklin Farm,,3,,adc384,ffffff
+937,30068,937,Coppermine - Elden - Herndon Metro,,3,,5da8dd,ffffff
+950,30068,950,Herndon Metro - Reston Town Center,,3,,9bbec7,ffffff
+951,30068,951,Wiehle Reston E- Innovation Center,,3,,9a538a,ffffff
+952,30068,952,Sunset Hills,,3,,27bdbe,ffffff
+954,30068,954,Sterling - Herndon Metro,,3,,238fac,ffffff
+983,30068,983,Dulles Airport- Udvar Hazy,,3,,207e3e,ffffff
+9999A,30068,9999A,Herndon Test,,3,,ff8040,000000
+9999B,30068,9999B,Huntington Test,,3,,00ff00,000000
+9999C,30068,9999C,West Ox Test,,3,,808000,000000
+RIBS1,30068,RIBS1,Lake Anne - Hunters Woods,,3,,ffe300,000000
+RIBS2,30068,RIBS2,Reston - South Lakes - Herndon M,,3,,00a078,ffffff
+RIBS3,30068,RIBS3,Hunters Woods - Lake Anne,,3,,999966,ffffff
+RIBS4,30068,RIBS4,Reston Town Center - North Point,,3,,0066b2,ffffff
+RIBS5,30068,RIBS5,Herndon- Reston Town Center,,3,,b75669,ffffff
+STRGW,30068,STRGW,Strategic West Ox,,3,,c0c0c0,000000

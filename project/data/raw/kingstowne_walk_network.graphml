@@ -15139,7 +15139,7 @@
       <data key="d8">[203045001, 203044957]</data>
       <data key="d9">residential</data>
       <data key="d17">2</data>
-      <data key="d16">['Lake Village Drive', 'Cliff Drive']</data>
+      <data key="d16">['Cliff Drive', 'Lake Village Drive']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">225.6369344868169</data>
@@ -15779,7 +15779,7 @@
     <edge source="63718961" target="1058171640" id="0">
       <data key="d8">[168529312, 1485578394]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -15800,7 +15800,7 @@
     <edge source="63719000" target="2129862155" id="0">
       <data key="d8">[1485001936, 1485001937, 1476728508]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -15939,7 +15939,7 @@
     <edge source="63719056" target="1271984761" id="0">
       <data key="d8">[1156837250, 697664590]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -15951,7 +15951,7 @@
     <edge source="63719056" target="1271984576" id="0">
       <data key="d8">[1475464472, 1475464473, 697664591]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -16511,7 +16511,7 @@
     <edge source="63846666" target="64011443" id="0">
       <data key="d8">[163866779, 1342388676]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Telegraph Road</data>
       <data key="d11">False</data>
@@ -16632,7 +16632,7 @@
     </edge>
     <edge source="63951013" target="11951239249" id="0">
       <data key="d8">[1156837281, 697661793]</data>
-      <data key="d9">['primary_link', 'primary']</data>
+      <data key="d9">['primary', 'primary_link']</data>
       <data key="d17">['3', '1']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Manchester Boulevard</data>
@@ -16899,7 +16899,7 @@
     <edge source="64011443" target="1550818796" id="0">
       <data key="d8">[1342379317, 1342388675, 1342388677]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2', '3']</data>
+      <data key="d17">['3', '4', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Telegraph Road</data>
       <data key="d11">False</data>
@@ -16945,8 +16945,8 @@
     <edge source="64011588" target="7729104884" id="0">
       <data key="d8">[1095844026, 163866778, 1095844028, 680714894]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2']</data>
-      <data key="d15">['40 mph', '35 mph']</data>
+      <data key="d17">['2', '4']</data>
+      <data key="d15">['35 mph', '40 mph']</data>
       <data key="d16">Telegraph Road</data>
       <data key="d11">False</data>
       <data key="d18">SR 611</data>
@@ -16979,7 +16979,7 @@
     <edge source="64011649" target="1377208532" id="0">
       <data key="d8">[1062143233, 1062143234, 123534751]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2', '3']</data>
+      <data key="d17">['3', '4', '2']</data>
       <data key="d15">45 mph</data>
       <data key="d16">Telegraph Road</data>
       <data key="d11">False</data>
@@ -17471,7 +17471,7 @@
     <edge source="857829168" target="7114700634" id="0">
       <data key="d8">[1156837300, 1156837303]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Boulevard</data>
       <data key="d11">False</data>
@@ -17535,7 +17535,7 @@
     </edge>
     <edge source="1057703245" target="1271985040" id="0">
       <data key="d8">[111696813, 111696791]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">6.492764921459269</data>
@@ -17576,7 +17576,7 @@
     <edge source="1058171640" target="63718961" id="0">
       <data key="d8">[168529312, 1485578394]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -17757,7 +17757,7 @@
     <edge source="1271984576" target="63719056" id="0">
       <data key="d8">[1475464472, 1475464473, 697664591]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -17966,7 +17966,7 @@
     <edge source="1271984761" target="63719056" id="0">
       <data key="d8">[1156837250, 697664590]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -18347,7 +18347,7 @@
     </edge>
     <edge source="1271985040" target="1057703245" id="0">
       <data key="d8">[111696813, 111696791]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">6.492764921459269</data>
@@ -18509,7 +18509,7 @@
     </edge>
     <edge source="1271985127" target="13738535757" id="0">
       <data key="d8">[1500340443, 111696757]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">104.0873504052316</data>
@@ -18933,7 +18933,7 @@
     <edge source="1273910441" target="1561117212" id="0">
       <data key="d8">[1385467061, 1385467062]</data>
       <data key="d9">secondary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Beulah Street</data>
       <data key="d11">False</data>
@@ -19039,7 +19039,7 @@
     <edge source="1377208532" target="64011649" id="0">
       <data key="d8">[1062143233, 1062143234, 123534751]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2', '3']</data>
+      <data key="d17">['3', '2', '4']</data>
       <data key="d15">45 mph</data>
       <data key="d16">Telegraph Road</data>
       <data key="d11">False</data>
@@ -19074,7 +19074,7 @@
     <edge source="1377208534" target="1560923233" id="0">
       <data key="d8">[1156837241, 1156837245]</data>
       <data key="d9">secondary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Beulah Street</data>
       <data key="d11">False</data>
@@ -19197,7 +19197,7 @@
     <edge source="1484217725" target="13318597751" id="0">
       <data key="d8">[135120760, 1396495738]</data>
       <data key="d9">['secondary', 'primary_link']</data>
-      <data key="d17">['4', '1']</data>
+      <data key="d17">['1', '4']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">61.48082212364096</data>
@@ -19422,7 +19422,7 @@
     <edge source="1550818796" target="64011443" id="0">
       <data key="d8">[1342388677, 1342388675, 1342379317]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2', '3']</data>
+      <data key="d17">['3', '2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Telegraph Road</data>
       <data key="d11">False</data>
@@ -19518,7 +19518,7 @@
     <edge source="1561117212" target="1273910441" id="0">
       <data key="d8">[1385467061, 1385467062]</data>
       <data key="d9">secondary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Beulah Street</data>
       <data key="d11">False</data>
@@ -19778,7 +19778,7 @@
       <data key="d8">[142783465, 142783474, 142783499]</data>
       <data key="d9">residential</data>
       <data key="d15">25 mph</data>
-      <data key="d16">['Spring Faire Court', 'Rock Cliff Lane']</data>
+      <data key="d16">['Rock Cliff Lane', 'Spring Faire Court']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">87.64094696030374</data>
@@ -19807,7 +19807,7 @@
       <data key="d8">[142783472, 142783466, 142783502]</data>
       <data key="d9">residential</data>
       <data key="d15">25 mph</data>
-      <data key="d16">['Spring Faire Court', 'Rock Cliff Lane']</data>
+      <data key="d16">['Rock Cliff Lane', 'Spring Faire Court']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">93.70985504449169</data>
@@ -21309,7 +21309,7 @@
     <edge source="1563062088" target="7956185897" id="0">
       <data key="d8">[1459200385, 1459200386]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -21350,7 +21350,7 @@
     <edge source="1563062089" target="7956185898" id="0">
       <data key="d8">[1156837252, 1472571454]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -21390,7 +21390,7 @@
     <edge source="1563062090" target="1563062284" id="0">
       <data key="d8">[697654056, 1156837254]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -21431,7 +21431,7 @@
     <edge source="1563062093" target="1563062294" id="0">
       <data key="d8">[1472571456, 697654054]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -22350,7 +22350,7 @@
     <edge source="1563062284" target="1563062090" id="0">
       <data key="d8">[697654056, 1156837254]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -22420,7 +22420,7 @@
     <edge source="1563062294" target="1563062093" id="0">
       <data key="d8">[1472571456, 697654054]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -22539,7 +22539,7 @@
     <edge source="1563062305" target="1563062567" id="0">
       <data key="d8">[142836084, 1156837255]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -23335,7 +23335,7 @@
     <edge source="1563062567" target="1563062305" id="0">
       <data key="d8">[142836084, 1156837255]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -24243,7 +24243,7 @@
     <edge source="1563062808" target="1563062998" id="0">
       <data key="d8">[1156837256, 697654050]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -24511,7 +24511,7 @@
     <edge source="1563062893" target="1563063001" id="0">
       <data key="d8">[697654052, 1156837294]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -25001,7 +25001,7 @@
     <edge source="1563062998" target="1563062808" id="0">
       <data key="d8">[1156837256, 697654050]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -25378,7 +25378,7 @@
     <edge source="1580635260" target="7114700578" id="0">
       <data key="d8">[1156837304, 1156837313, 1156837314]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2', '3']</data>
+      <data key="d17">['3', '2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Boulevard</data>
       <data key="d11">False</data>
@@ -25890,7 +25890,7 @@
     <edge source="1580635334" target="63416007" id="0">
       <data key="d8">[1156837278, 1156837279]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -28326,7 +28326,7 @@
     <edge source="1797813795" target="11293191603" id="0">
       <data key="d8">[889442521, 1414887851]</data>
       <data key="d9">secondary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Beulah Street</data>
       <data key="d11">False</data>
@@ -29150,7 +29150,7 @@
       <data key="d8">[203001319, 697654047]</data>
       <data key="d9">['tertiary', 'residential']</data>
       <data key="d17">2</data>
-      <data key="d16">['Greendale Village Drive', 'King Centre Drive']</data>
+      <data key="d16">['King Centre Drive', 'Greendale Village Drive']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">25.503134390365858</data>
@@ -29606,7 +29606,7 @@
     <edge source="2129823892" target="11951239264" id="0">
       <data key="d8">[1156837291, 1156837292]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Manchester Boulevard</data>
       <data key="d11">False</data>
@@ -29669,7 +29669,7 @@
     <edge source="2129823923" target="7114700707" id="0">
       <data key="d8">[1156837301, 1156837302]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Boulevard</data>
       <data key="d11">False</data>
@@ -29681,7 +29681,7 @@
     <edge source="2129823923" target="7114700636" id="0">
       <data key="d8">[1367342305, 203023666]</data>
       <data key="d9">primary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Boulevard</data>
       <data key="d11">False</data>
@@ -30002,7 +30002,7 @@
     <edge source="2129862155" target="63719000" id="0">
       <data key="d8">[1485001936, 1485001937, 1476728508]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -31902,7 +31902,7 @@
     <edge source="2130235231" target="7729109254" id="0">
       <data key="d8">[725874557, 1156837295]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -32121,7 +32121,7 @@
     <edge source="2130235296" target="7114700706" id="0">
       <data key="d8">[1156837299, 1156837315]</data>
       <data key="d9">primary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Boulevard</data>
       <data key="d11">False</data>
@@ -32153,7 +32153,7 @@
     <edge source="2130235297" target="7114700705" id="0">
       <data key="d8">[1156837298, 1156837277]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -32331,7 +32331,7 @@
       <data key="d8">[203045001, 203044957]</data>
       <data key="d9">residential</data>
       <data key="d15">25 mph</data>
-      <data key="d16">['Lake Village Drive', 'Cliff Drive']</data>
+      <data key="d16">['Cliff Drive', 'Lake Village Drive']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">225.6369344868169</data>
@@ -32961,7 +32961,7 @@
       <data key="d8">[203044968, 203001321]</data>
       <data key="d9">residential</data>
       <data key="d15">25 mph</data>
-      <data key="d16">['Greendale Village Drive', 'Eyler Drive']</data>
+      <data key="d16">['Eyler Drive', 'Greendale Village Drive']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">186.487956203462</data>
@@ -33522,7 +33522,7 @@
     </edge>
     <edge source="2130235697" target="8447857078" id="0">
       <data key="d8">[203045032, 909856577]</data>
-      <data key="d9">['unclassified', 'footway']</data>
+      <data key="d9">['footway', 'unclassified']</data>
       <data key="d15">25 mph</data>
       <data key="d16">Waterfield Road</data>
       <data key="d11">False</data>
@@ -34813,7 +34813,7 @@
     <edge source="2130235859" target="2130276719" id="0">
       <data key="d8">[993369175, 1337859223]</data>
       <data key="d9">primary</data>
-      <data key="d17">['5', '3']</data>
+      <data key="d17">['3', '5']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Franconia Road</data>
       <data key="d11">False</data>
@@ -34825,7 +34825,7 @@
     <edge source="2130235859" target="2130276714" id="0">
       <data key="d8">[1337859225, 926580847]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Franconia Road</data>
       <data key="d11">False</data>
@@ -34894,7 +34894,7 @@
     <edge source="2130276714" target="2130235859" id="0">
       <data key="d8">[1337859225, 926580847]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Franconia Road</data>
       <data key="d11">False</data>
@@ -34929,7 +34929,7 @@
     <edge source="2130276719" target="2130235859" id="0">
       <data key="d8">[1337859223, 993369175]</data>
       <data key="d9">primary</data>
-      <data key="d17">['5', '3']</data>
+      <data key="d17">['3', '5']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Franconia Road</data>
       <data key="d11">False</data>
@@ -35011,7 +35011,7 @@
     <edge source="2130282025" target="7729109253" id="0">
       <data key="d8">[697654048, 1156837297]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -36414,7 +36414,7 @@
       <data key="d9">service</data>
       <data key="d17">2</data>
       <data key="d11">False</data>
-      <data key="d10">['driveway', 'parking_aisle']</data>
+      <data key="d10">['parking_aisle', 'driveway']</data>
       <data key="d12">False</data>
       <data key="d13">92.41240636982761</data>
       <data key="d14">LINESTRING (-77.1377174 38.7832063, -77.137674 38.7832089, -77.1376445 38.7832016, -77.1376241 38.7831879, -77.1376176 38.7831713, -77.1375328 38.7824396)</data>
@@ -36447,7 +36447,7 @@
       <data key="d9">service</data>
       <data key="d17">2</data>
       <data key="d11">False</data>
-      <data key="d10">['driveway', 'parking_aisle']</data>
+      <data key="d10">['parking_aisle', 'driveway']</data>
       <data key="d12">False</data>
       <data key="d13">99.96399203869134</data>
       <data key="d14">LINESTRING (-77.1367199 38.7833113, -77.1366132 38.7833207, -77.1365233 38.7825524, -77.1365287 38.7825088)</data>
@@ -36458,7 +36458,7 @@
       <data key="d9">service</data>
       <data key="d17">2</data>
       <data key="d11">False</data>
-      <data key="d10">['driveway', 'parking_aisle']</data>
+      <data key="d10">['parking_aisle', 'driveway']</data>
       <data key="d12">True</data>
       <data key="d13">99.4073350939504</data>
       <data key="d14">LINESTRING (-77.1367199 38.7833113, -77.1368264 38.7833019, -77.1367253 38.7824953)</data>
@@ -37382,7 +37382,7 @@
       <data key="d8">[203044968, 203001321]</data>
       <data key="d9">residential</data>
       <data key="d17">2</data>
-      <data key="d16">['Greendale Village Drive', 'Eyler Drive']</data>
+      <data key="d16">['Eyler Drive', 'Greendale Village Drive']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">186.48795620346198</data>
@@ -41407,7 +41407,7 @@
     </edge>
     <edge source="4730654609" target="63720474" id="0">
       <data key="d8">[8841170, 480038879]</data>
-      <data key="d9">['residential', 'path']</data>
+      <data key="d9">['path', 'residential']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">132.03337483527483</data>
@@ -41868,8 +41868,8 @@
     </edge>
     <edge source="4797744678" target="4808450787" id="0">
       <data key="d8">[488559052, 487267285]</data>
-      <data key="d9">['track', 'path']</data>
-      <data key="d16">['Large Gravel Access Road', 'Pimitive Path']</data>
+      <data key="d9">['path', 'track']</data>
+      <data key="d16">['Pimitive Path', 'Large Gravel Access Road']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">138.0594913125656</data>
@@ -41925,8 +41925,8 @@
     </edge>
     <edge source="4808450787" target="4797744678" id="0">
       <data key="d8">[488559052, 487267285]</data>
-      <data key="d9">['track', 'path']</data>
-      <data key="d16">['Large Gravel Access Road', 'Pimitive Path']</data>
+      <data key="d9">['path', 'track']</data>
+      <data key="d16">['Pimitive Path', 'Large Gravel Access Road']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">138.05949131256563</data>
@@ -42561,7 +42561,7 @@
       <data key="d8">[577547876, 577547877]</data>
       <data key="d9">service</data>
       <data key="d11">False</data>
-      <data key="d10">['drive-through', 'driveway']</data>
+      <data key="d10">['driveway', 'drive-through']</data>
       <data key="d12">[False, True]</data>
       <data key="d13">154.04781887948053</data>
       <data key="d14">LINESTRING (-77.1538054 38.7638864, -77.1535358 38.7637557, -77.1535009 38.7637557, -77.1534593 38.7637797, -77.1532407 38.7640516, -77.15323 38.7640903, -77.1532394 38.7641196, -77.1532716 38.7641447, -77.1534808 38.7642456, -77.1535217 38.764243, -77.1535532 38.7642158, -77.1538054 38.7638864)</data>
@@ -42569,7 +42569,7 @@
     <edge source="5536436728" target="5536436728" id="1">
       <data key="d8">[577547876, 577547877]</data>
       <data key="d9">service</data>
-      <data key="d10">['drive-through', 'driveway']</data>
+      <data key="d10">['driveway', 'drive-through']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">154.0478188794805</data>
@@ -43236,7 +43236,7 @@
     </edge>
     <edge source="5889691328" target="11291175571" id="0">
       <data key="d8">[1549754891, 1218549862]</data>
-      <data key="d9">['steps', 'path']</data>
+      <data key="d9">['path', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">35.18005474952116</data>
@@ -43581,8 +43581,8 @@
     </edge>
     <edge source="6551989848" target="8819077659" id="0">
       <data key="d8">[697664588, 697664589]</data>
-      <data key="d9">['primary_link', 'primary']</data>
-      <data key="d17">['2', '1']</data>
+      <data key="d9">['primary', 'primary_link']</data>
+      <data key="d17">['1', '2']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">45.77658932895777</data>
@@ -44525,7 +44525,7 @@
     </edge>
     <edge source="7026922070" target="8816014299" id="0">
       <data key="d8">[952506192, 751680055]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">90.33804554454373</data>
@@ -44742,7 +44742,7 @@
     </edge>
     <edge source="7026941235" target="8816014298" id="0">
       <data key="d8">[751680058, 952506191]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">31.99077134978046</data>
@@ -44750,7 +44750,7 @@
     </edge>
     <edge source="7026941235" target="8816014296" id="0">
       <data key="d8">[751680058, 952506189]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">78.49211844245656</data>
@@ -45861,7 +45861,7 @@
       <data key="d8">[697654047, 203001319]</data>
       <data key="d9">['tertiary', 'residential']</data>
       <data key="d17">2</data>
-      <data key="d16">['Greendale Village Drive', 'King Centre Drive']</data>
+      <data key="d16">['King Centre Drive', 'Greendale Village Drive']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">25.503134390365858</data>
@@ -46315,7 +46315,7 @@
     <edge source="7114700578" target="1580635260" id="0">
       <data key="d8">[1156837304, 1156837313, 1156837314]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2', '3']</data>
+      <data key="d17">['3', '4', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Boulevard</data>
       <data key="d11">False</data>
@@ -46340,7 +46340,7 @@
     </edge>
     <edge source="7114700579" target="13283971273" id="0">
       <data key="d8">[8809706, 1082420269]</data>
-      <data key="d9">['service', 'tertiary']</data>
+      <data key="d9">['tertiary', 'service']</data>
       <data key="d17">['3', '1']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
@@ -46788,7 +46788,7 @@
     <edge source="7114700636" target="2129823923" id="0">
       <data key="d8">[1367342305, 203023666]</data>
       <data key="d9">primary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Boulevard</data>
       <data key="d11">False</data>
@@ -47439,7 +47439,7 @@
     <edge source="7114700706" target="2130235296" id="0">
       <data key="d8">[1156837315, 1156837299]</data>
       <data key="d9">primary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Boulevard</data>
       <data key="d11">False</data>
@@ -48064,7 +48064,7 @@
     </edge>
     <edge source="7424065262" target="7626517304" id="0">
       <data key="d8">[793661792, 816567928]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">16.27362381143832</data>
@@ -48277,7 +48277,7 @@
     </edge>
     <edge source="7545050101" target="10677344393" id="0">
       <data key="d8">[1147498496, 952506116, 952798231]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">89.12806828723072</data>
@@ -48587,7 +48587,7 @@
     </edge>
     <edge source="7626506858" target="7626517349" id="0">
       <data key="d8">[816567912, 816567946]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">188.3105256778833</data>
@@ -48886,7 +48886,7 @@
     </edge>
     <edge source="7626517304" target="7424065262" id="0">
       <data key="d8">[816567928, 793661792]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">16.27362381143832</data>
@@ -49172,7 +49172,7 @@
     </edge>
     <edge source="7626517349" target="7626506858" id="0">
       <data key="d8">[816567912, 816567946]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">188.31052567788328</data>
@@ -49558,7 +49558,7 @@
     </edge>
     <edge source="7626517428" target="11292004530" id="0">
       <data key="d8">[1218884364, 1218884365, 1218884366]</data>
-      <data key="d9">['steps', 'footway', 'path']</data>
+      <data key="d9">['path', 'footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">237.68147053794888</data>
@@ -49754,7 +49754,7 @@
       <data key="d8">[1095844026, 1095844028, 680714894, 163866778]</data>
       <data key="d9">primary</data>
       <data key="d17">['4', '2']</data>
-      <data key="d15">['40 mph', '35 mph']</data>
+      <data key="d15">['35 mph', '40 mph']</data>
       <data key="d16">Telegraph Road</data>
       <data key="d11">False</data>
       <data key="d18">SR 611</data>
@@ -49814,7 +49814,7 @@
     <edge source="7729109253" target="2130282025" id="0">
       <data key="d8">[697654048, 1156837297]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -49852,7 +49852,7 @@
     <edge source="7729109254" target="2130235231" id="0">
       <data key="d8">[725874557, 1156837295]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -50200,7 +50200,7 @@
     <edge source="7956155484" target="7956185904" id="0">
       <data key="d8">[1156837251, 697661788]</data>
       <data key="d9">secondary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Hayfield Road</data>
       <data key="d11">False</data>
@@ -50293,7 +50293,7 @@
     <edge source="7956185897" target="1563062088" id="0">
       <data key="d8">[1459200385, 1459200386]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -50322,7 +50322,7 @@
     </edge>
     <edge source="7956185898" target="11291264057" id="0">
       <data key="d8">[952807680, 853007253, 952807679]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">41.1886584797386</data>
@@ -50331,7 +50331,7 @@
     <edge source="7956185898" target="1563062089" id="0">
       <data key="d8">[1156837252, 1472571454]</data>
       <data key="d9">tertiary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Kingstowne Village Parkway</data>
       <data key="d11">False</data>
@@ -51601,7 +51601,7 @@
     </edge>
     <edge source="8815817580" target="8816014516" id="0">
       <data key="d8">[952798264, 952489173, 952798263]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">202.94840686429256</data>
@@ -53425,7 +53425,7 @@
     </edge>
     <edge source="8816014029" target="8816014055" id="0">
       <data key="d8">[952506123, 952506124]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">115.45664813351748</data>
@@ -53463,7 +53463,7 @@
     </edge>
     <edge source="8816014055" target="8816014029" id="0">
       <data key="d8">[952506123, 952506124]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">115.45664813351748</data>
@@ -53812,7 +53812,7 @@
     </edge>
     <edge source="8816014212" target="7959061459" id="0">
       <data key="d8">[8816538, 953612493]</data>
-      <data key="d9">['residential', 'path']</data>
+      <data key="d9">['path', 'residential']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">435.99684407290306</data>
@@ -54468,7 +54468,7 @@
     </edge>
     <edge source="8816014295" target="8816014297" id="1">
       <data key="d8">[751680057, 952506188, 952506190]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">109.43238645296329</data>
@@ -54498,7 +54498,7 @@
     </edge>
     <edge source="8816014296" target="7026941235" id="0">
       <data key="d8">[751680058, 952506189]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">78.49211844245656</data>
@@ -54513,7 +54513,7 @@
     </edge>
     <edge source="8816014297" target="8816014295" id="1">
       <data key="d8">[751680057, 952506188, 952506190]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">109.43238645296331</data>
@@ -54544,7 +54544,7 @@
     </edge>
     <edge source="8816014298" target="7026941235" id="0">
       <data key="d8">[751680058, 952506191]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">31.99077134978046</data>
@@ -54567,7 +54567,7 @@
     </edge>
     <edge source="8816014299" target="7026922070" id="0">
       <data key="d8">[952506192, 751680055]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">90.33804554454373</data>
@@ -55700,7 +55700,7 @@
     </edge>
     <edge source="8816014492" target="8816014520" id="0">
       <data key="d8">[952489124, 952489125, 952489126, 952489127]</data>
-      <data key="d9">['steps', 'path']</data>
+      <data key="d9">['path', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">80.82178543803296</data>
@@ -55851,7 +55851,7 @@
     </edge>
     <edge source="8816014516" target="8815817580" id="0">
       <data key="d8">[952798264, 952489173, 952798263]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">202.94840686429254</data>
@@ -55889,7 +55889,7 @@
     </edge>
     <edge source="8816014520" target="8816014492" id="0">
       <data key="d8">[952489124, 952489125, 952489126, 952489127]</data>
-      <data key="d9">['steps', 'path']</data>
+      <data key="d9">['path', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">80.82178543803298</data>
@@ -57322,7 +57322,7 @@
     </edge>
     <edge source="8818996181" target="8818996185" id="0">
       <data key="d8">[952798261, 952798262]</data>
-      <data key="d9">['steps', 'path']</data>
+      <data key="d9">['path', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">29.719030592289144</data>
@@ -57330,7 +57330,7 @@
     </edge>
     <edge source="8818996185" target="8818996181" id="0">
       <data key="d8">[952798261, 952798262]</data>
-      <data key="d9">['steps', 'path']</data>
+      <data key="d9">['path', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">29.719030592289144</data>
@@ -57631,8 +57631,8 @@
     </edge>
     <edge source="8819077659" target="6551989848" id="0">
       <data key="d8">[697664588, 697664589]</data>
-      <data key="d9">['primary_link', 'primary']</data>
-      <data key="d17">['2', '1']</data>
+      <data key="d9">['primary', 'primary_link']</data>
+      <data key="d17">['1', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Manchester Boulevard</data>
       <data key="d11">False</data>
@@ -57692,7 +57692,7 @@
       <data key="d8">[142783465, 142783474, 142783499]</data>
       <data key="d9">residential</data>
       <data key="d15">25 mph</data>
-      <data key="d16">['Spring Faire Court', 'Rock Cliff Lane']</data>
+      <data key="d16">['Rock Cliff Lane', 'Spring Faire Court']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">87.64094696030374</data>
@@ -57726,7 +57726,7 @@
       <data key="d8">[142783472, 142783466, 142783502]</data>
       <data key="d9">residential</data>
       <data key="d15">25 mph</data>
-      <data key="d16">['Spring Faire Court', 'Rock Cliff Lane']</data>
+      <data key="d16">['Rock Cliff Lane', 'Spring Faire Court']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">93.7098550444917</data>
@@ -57876,7 +57876,7 @@
     </edge>
     <edge source="8826375229" target="13284053419" id="0">
       <data key="d8">[952798236, 953612494]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">34.37487609200378</data>
@@ -58999,7 +58999,7 @@
     </edge>
     <edge source="8826376565" target="13274148754" id="0">
       <data key="d8">[953612546, 1446735822]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">57.411013870895715</data>
@@ -60495,7 +60495,7 @@
     </edge>
     <edge source="8869216646" target="8869216764" id="0">
       <data key="d8">[958556497, 1500340441]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">78.43518180208866</data>
@@ -60817,7 +60817,7 @@
     <edge source="8869216764" target="8869216646" id="0">
       <data key="d8">[958556497, 1500340441]</data>
       <data key="d20">permissive</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">78.43518180208866</data>
@@ -61541,7 +61541,7 @@
       <data key="d8">[203044969, 8817393]</data>
       <data key="d9">residential</data>
       <data key="d15">25 mph</data>
-      <data key="d16">['Manchester Lakes Drive', 'Gatton Square']</data>
+      <data key="d16">['Gatton Square', 'Manchester Lakes Drive']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">70.38401564319017</data>
@@ -61582,7 +61582,7 @@
     </edge>
     <edge source="8869216963" target="9380692544" id="0">
       <data key="d8">[958556548, 958556549, 958556550]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">141.76011927294493</data>
@@ -61689,7 +61689,7 @@
     <edge source="8882945833" target="10964284720" id="0">
       <data key="d8">[1156837249, 111877859]</data>
       <data key="d9">secondary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Beulah Street</data>
       <data key="d11">False</data>
@@ -61864,7 +61864,7 @@
     </edge>
     <edge source="9380692544" target="8869216963" id="0">
       <data key="d8">[958556548, 958556549, 958556550]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">141.76011927294493</data>
@@ -62329,7 +62329,7 @@
     <edge source="10114377663" target="12735500752" id="0">
       <data key="d8">[1156837233, 141677676]</data>
       <data key="d9">primary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">South Van Dorn Street</data>
       <data key="d11">False</data>
@@ -62361,7 +62361,7 @@
     </edge>
     <edge source="10677344393" target="7545050101" id="0">
       <data key="d8">[1147498496, 952506116, 952798231]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">89.12806828723073</data>
@@ -69154,7 +69154,7 @@
     </edge>
     <edge source="11291171431" target="11291982052" id="0">
       <data key="d8">[1218549857, 1218549845, 1256637511]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">26.115885551324237</data>
@@ -69669,7 +69669,7 @@
     </edge>
     <edge source="11291175571" target="5889691328" id="0">
       <data key="d8">[1549754891, 1218549862]</data>
-      <data key="d9">['steps', 'path']</data>
+      <data key="d9">['path', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">35.18005474952116</data>
@@ -69899,7 +69899,7 @@
     </edge>
     <edge source="11291264051" target="11291264057" id="0">
       <data key="d8">[1218564100, 1218564101]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">51.5606457728456</data>
@@ -69907,7 +69907,7 @@
     </edge>
     <edge source="11291264057" target="7956185898" id="0">
       <data key="d8">[952807680, 853007253, 952807679]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">41.1886584797386</data>
@@ -69923,7 +69923,7 @@
     </edge>
     <edge source="11291264057" target="11291264051" id="0">
       <data key="d8">[1218564100, 1218564101]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">51.56064577284559</data>
@@ -70575,7 +70575,7 @@
     </edge>
     <edge source="11291982052" target="11291171431" id="0">
       <data key="d8">[1218549857, 1218549845, 1256637511]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">26.115885551324233</data>
@@ -70583,7 +70583,7 @@
     </edge>
     <edge source="11291982052" target="11291982055" id="0">
       <data key="d8">[1220040572, 1218631439]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">56.8413169037298</data>
@@ -70611,7 +70611,7 @@
     </edge>
     <edge source="11291982055" target="11291982052" id="0">
       <data key="d8">[1220040572, 1218631439]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">56.8413169037298</data>
@@ -70642,7 +70642,7 @@
     </edge>
     <edge source="11291982058" target="11292004383" id="0">
       <data key="d8">[1218631443, 1218631444]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">170.82608074448535</data>
@@ -70657,7 +70657,7 @@
     </edge>
     <edge source="11292004383" target="11291982058" id="0">
       <data key="d8">[1218631443, 1218631444]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">170.82608074448538</data>
@@ -70924,7 +70924,7 @@
     </edge>
     <edge source="11292004530" target="7626517428" id="0">
       <data key="d8">[1218884364, 1218884365, 1218884366]</data>
-      <data key="d9">['steps', 'footway', 'path']</data>
+      <data key="d9">['path', 'footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">237.68147053794885</data>
@@ -71134,7 +71134,7 @@
     <edge source="11293191603" target="1797813795" id="0">
       <data key="d8">[889442521, 1414887851]</data>
       <data key="d9">secondary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Beulah Street</data>
       <data key="d11">False</data>
@@ -72463,7 +72463,7 @@
     </edge>
     <edge source="11951239247" target="6551989848" id="0">
       <data key="d8">[697664587, 697664589]</data>
-      <data key="d9">['primary_link', 'secondary']</data>
+      <data key="d9">['secondary', 'primary_link']</data>
       <data key="d17">['3', '1']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Hayfield Road</data>
@@ -72501,8 +72501,8 @@
     </edge>
     <edge source="11951239248" target="11951239249" id="0">
       <data key="d8">[697661792, 697661793]</data>
-      <data key="d9">['primary_link', 'secondary']</data>
-      <data key="d17">['2', '1']</data>
+      <data key="d9">['secondary', 'primary_link']</data>
+      <data key="d17">['1', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Hayfield Road</data>
       <data key="d11">False</data>
@@ -72529,7 +72529,7 @@
     <edge source="11951239249" target="11951239248" id="0">
       <data key="d8">[697661792, 697661793]</data>
       <data key="d9">['secondary', 'primary_link']</data>
-      <data key="d17">['2', '1']</data>
+      <data key="d17">['1', '2']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
       <data key="d13">39.97834777850938</data>
@@ -72548,7 +72548,7 @@
     </edge>
     <edge source="11951239249" target="63951013" id="0">
       <data key="d8">[697661793, 1156837281]</data>
-      <data key="d9">['primary_link', 'primary']</data>
+      <data key="d9">['primary', 'primary_link']</data>
       <data key="d17">['3', '1']</data>
       <data key="d11">False</data>
       <data key="d12">[False, True]</data>
@@ -72694,7 +72694,7 @@
     <edge source="11951239263" target="2129823890" id="0">
       <data key="d8">[697664586, 1156837293]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Manchester Boulevard</data>
       <data key="d11">False</data>
@@ -72724,7 +72724,7 @@
     <edge source="11951239264" target="2129823892" id="0">
       <data key="d8">[1156837291, 1156837292]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '3']</data>
+      <data key="d17">['3', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Manchester Boulevard</data>
       <data key="d11">False</data>
@@ -72856,7 +72856,7 @@
     <edge source="12735500752" target="10114377663" id="0">
       <data key="d8">[1156837233, 141677676]</data>
       <data key="d9">primary</data>
-      <data key="d17">['2', '3']</data>
+      <data key="d17">['3', '2']</data>
       <data key="d15">35 mph</data>
       <data key="d16">South Van Dorn Street</data>
       <data key="d11">False</data>
@@ -73882,7 +73882,7 @@
     </edge>
     <edge source="13274148754" target="8826376565" id="0">
       <data key="d8">[953612546, 1446735822]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">57.41101387089572</data>
@@ -73914,7 +73914,7 @@
     <edge source="13283812299" target="13199893900" id="0">
       <data key="d8">[1156837264, 141677673]</data>
       <data key="d9">primary</data>
-      <data key="d17">['4', '2']</data>
+      <data key="d17">['2', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">South Van Dorn Street</data>
       <data key="d11">False</data>
@@ -73990,7 +73990,7 @@
     </edge>
     <edge source="13283971267" target="13283971272" id="0">
       <data key="d8">[1447810073, 1447810070]</data>
-      <data key="d9">['service', 'tertiary']</data>
+      <data key="d9">['tertiary', 'service']</data>
       <data key="d17">2</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
@@ -74022,7 +74022,7 @@
     </edge>
     <edge source="13283971272" target="13283971267" id="0">
       <data key="d8">[1447810073, 1447810070]</data>
-      <data key="d9">['service', 'tertiary']</data>
+      <data key="d9">['tertiary', 'service']</data>
       <data key="d17">2</data>
       <data key="d16">Sir Viceroy Drive</data>
       <data key="d11">False</data>
@@ -74063,7 +74063,7 @@
     </edge>
     <edge source="13283971273" target="7114700579" id="0">
       <data key="d8">[8809706, 1082420269]</data>
-      <data key="d9">['service', 'tertiary']</data>
+      <data key="d9">['tertiary', 'service']</data>
       <data key="d17">['3', '1']</data>
       <data key="d16">Sir Viceroy Drive</data>
       <data key="d11">False</data>
@@ -74554,7 +74554,7 @@
     </edge>
     <edge source="13284053419" target="8826375229" id="0">
       <data key="d8">[952798236, 953612494]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">34.374876092003774</data>
@@ -74596,8 +74596,8 @@
     </edge>
     <edge source="13318597751" target="1484217725" id="0">
       <data key="d8">[135120760, 1396495738]</data>
-      <data key="d9">['primary_link', 'secondary']</data>
-      <data key="d17">['4', '1']</data>
+      <data key="d9">['secondary', 'primary_link']</data>
+      <data key="d17">['1', '4']</data>
       <data key="d15">35 mph</data>
       <data key="d16">Beulah Street</data>
       <data key="d11">False</data>
@@ -75453,7 +75453,7 @@
     </edge>
     <edge source="13738535757" target="1271985127" id="0">
       <data key="d8">[1500340443, 111696757]</data>
-      <data key="d9">['footway', 'path']</data>
+      <data key="d9">['path', 'footway']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">104.08735040523159</data>
@@ -75601,7 +75601,7 @@
     </edge>
     <edge source="13738620646" target="13738620647" id="1">
       <data key="d8">[1500344233, 1500344235]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">True</data>
       <data key="d13">15.452236751513173</data>
@@ -75617,7 +75617,7 @@
     </edge>
     <edge source="13738620647" target="13738620646" id="1">
       <data key="d8">[1500344233, 1500344235]</data>
-      <data key="d9">['steps', 'footway']</data>
+      <data key="d9">['footway', 'steps']</data>
       <data key="d11">False</data>
       <data key="d12">False</data>
       <data key="d13">15.452236751513173</data>
@@ -75920,7 +75920,7 @@
       <data key="d13">9.434522683680708</data>
       <data key="d14">LINESTRING (-77.1435201 38.7563792, -77.1435945 38.7563556, -77.1436034 38.7563345)</data>
     </edge>
-    <data key="d0">2026-08-24 09:30:09</data>
+    <data key="d0">2026-08-25 11:22:37</data>
     <data key="d1">OSMnx 2.1.1</data>
     <data key="d2">epsg:4326</data>
     <data key="d3">True</data>
